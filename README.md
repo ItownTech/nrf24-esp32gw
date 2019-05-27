@@ -13,3 +13,6 @@ bom表请参考https://mysensor.pub/gateway/esp32gw/
 ----------
 
 使用方法https://mysensor.pub/gateway/esp32gw/
+
+----------
+刷机必须使用BIN目录固件，升级请下载OTA目录下的固件
